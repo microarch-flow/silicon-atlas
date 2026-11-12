@@ -1,5 +1,7 @@
 # 芯片开发流程 Wiki
 
+> 本系列的日常维护已迁至 [主 Wiki 的 `series/chip-development/`](https://github.com/microarch-flow/wiki/tree/main/series/chip-development)。公开阅读入口为 [芯片开发与实现](https://microarch-flow.github.io/wiki/series/chip-development/)。本仓保留旧版内容和历史。
+
 ## Wiki 目标
 
 这份 Wiki 面向正在从系统软件和 AI 芯片建模转向芯片创业的创始人。目标不是把你训练成每个环节的专家，而是建立完整芯片开发流程的全局视野：知道从立项到量产每个阶段在做什么、谁负责、交付物是什么、关键决策在哪里、成本如何形成、哪些环节可以外包、哪些风险必须内部掌握。
